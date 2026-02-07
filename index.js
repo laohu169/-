@@ -10,7 +10,7 @@ const { spawn } = require('child_process');
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nzmbv.wuge.nyc.mn:443';
 const NEZHA_PORT = process.env.NEZHA_PORT || '';
 const NEZHA_KEY = process.env.NEZHA_KEY || 'gUxNJhaKJgceIgeapZG4956rmKFgmQgP';
-const UUID = process.env.UUID || '145684ab-f2e5-4f3d-bc55-9fb3e60b4f07';
+const UUID = process.env.UUID || '749684ab-f2e5-4f3d-bc55-9fb3e60b4f07';
 
 console.log('🚀 哪吒探针自动部署脚本');
 
