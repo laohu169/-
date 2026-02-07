@@ -1,0 +1,22 @@
+{
+  "name": "nezha-agent-deployment",
+  "version": "1.0.0",
+  "description": "Nezha Agent Auto Deployment Script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "nezha",
+    "monitor",
+    "agent",
+    "deployment"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
